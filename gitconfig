@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = [A[A[B
-	name = Jinyong Kim jenokim1105@gmail.com
+	email = jenokim1105@gmail.com
+	name = Jinyong Kim
